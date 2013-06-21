@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的播放器</string>
+        <string name="name">本地视频</string>
+            <string name="name2">本地音乐</string>
+            <string name="name3">网络没有</string>
+</resources>
